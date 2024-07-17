@@ -1,0 +1,37 @@
+/* src/components/User.css */
+.user-container {
+    margin: 20px 0;
+  }
+  
+  .user-item {
+    background-color: #dff0d8;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  input[type="text"], input[type="password"] {
+    padding: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #28a745;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #218838;
+  }
+  
